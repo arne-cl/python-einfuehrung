@@ -16,6 +16,8 @@ cd python-einfuehrung
 ipython notebook
 ```
 
+Wer noch mehr computerlinguistische Themen mit Python und NLTK ausprobieren möchte, dem sei die Webseite [Natural Language Processing and Applications](http://nlpa.iupr.com/resources) der Uni Kaiserslautern ans Herz gelegt. Dort gibt es diverse IPython-Notebooks zu NLTK, regulären Ausdrücken, Hidden Markov Models, Unicode, POS-Tagging, Transduktoren und einigen Klassifikatoren.
+
 Voraussetzungen
 ---------------
 
