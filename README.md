@@ -18,8 +18,21 @@ ipython notebook
 
 Wer noch mehr computerlinguistische Themen mit Python und NLTK ausprobieren möchte, dem sei die Webseite [Natural Language Processing and Applications](http://nlpa.iupr.com/resources) der Uni Kaiserslautern ans Herz gelegt. Dort gibt es diverse IPython-Notebooks zu NLTK, regulären Ausdrücken, Hidden Markov Models, Unicode, POS-Tagging, Transduktoren und einigen Klassifikatoren.
 
-Voraussetzungen
----------------
+Visualisierung von Programmabläufen
+-----------------------------------
+
+Mein Beispiel zur Visualisierung des CKY-Erkenners (Code: A. Koller/ T. Hanneforth)
+könnt ihr euch zwar [online ansehen](http://nbviewer.ipython.org/github/arne-cl/python-einfuehrung/blob/master/cky-parser-visualization.ipynb),
+sie funktioniert allerdings nur richtig, wenn ihr sie lokal auf eurem Rechner installiert (s.o.).
+Hierfür muss zudem noch [ipythonblocks](http://ipythonblocks.org/) installiert werden.
+
+Weitere Pakete installieren
+---------------------------
+
+Wie man Python-Pakete mit pip installiert, habe ich [hier](python-pakete-installieren.md) zusammengefasst.
+
+System-Voraussetzungen
+----------------------
 
 Zum Bearbeiten des Notebooks benötigt man [git](http://git-scm.com/downloads) sowie [IPython](http://ipython.org/install.html).
 
