@@ -31,6 +31,15 @@ Weitere Pakete installieren
 
 Wie man Python-Pakete mit pip installiert, habe ich [hier](python-pakete-installieren.md) zusammengefasst.
 
+
+Fehlersuche in Python-Programmen
+--------------------------------
+
+Zum Debuggen habe ich [pudb](https://pypi.python.org/pypi/pudb/) vorgestellt.
+Das Paket lässt sich auch mit `pip` installieren, funktioniert aber
+anscheinend nur unter Linux/Mac OS. Alternativ könnt ihr es mit
+[winpdb](http://winpdb.org/download/) probieren (Windows/Linux/Mac OS).
+
 System-Voraussetzungen
 ----------------------
 
@@ -39,7 +48,7 @@ Zum Bearbeiten des Notebooks benötigt man [git](http://git-scm.com/downloads) s
 Lizenz
 ------
 
-Dieses Werk ist lizensiert unter der [Creative Commons Attribution-ShareAlike 4.0 International License]("http://creativecommons.org/licenses/by-sa/4.0/").
+Dieses Geschwurbel ist lizensiert unter der [Creative Commons Attribution-ShareAlike 4.0 International License]("http://creativecommons.org/licenses/by-sa/4.0/").
 
 Autor
 -----
