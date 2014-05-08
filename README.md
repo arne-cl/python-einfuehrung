@@ -40,6 +40,12 @@ Das Paket lässt sich auch mit `pip` installieren, funktioniert aber
 anscheinend nur unter Linux/Mac OS. Alternativ könnt ihr es mit
 [winpdb](http://winpdb.org/download/) probieren (Windows/Linux/Mac OS).
 
+Es gibt einen kostenlosen Online-Kurs zum Thema Debugging (in Python) bei
+[Udacity](https://www.udacity.com/course/cs259) von Andreas Zeller (die
+Videos sind thematisch gegliedert, man kann sie sich auch einzeln ansehen). 
+Von ihm stammt auch das schöne Buch [Why Programs Fail](http://www.whyprogramsfail.com/).
+
+
 System-Voraussetzungen
 ----------------------
 
