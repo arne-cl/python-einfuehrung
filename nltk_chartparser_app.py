@@ -1,3 +1,6 @@
+# to run this script, please use Python's interactive mode, i.e.
+# python -i nltk_chartparser_app.py 
+
 import nltk
 
 words = ["I", "shot", "an", "elephant", "in", "my", "pajamas"]

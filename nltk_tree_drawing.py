@@ -1,3 +1,7 @@
+# to run this script, please use Python's interactive mode, i.e.
+# python -i nltk_tree_drawing.py
+
+
 from nltk.tree import *
 from nltk.draw import tree
 
