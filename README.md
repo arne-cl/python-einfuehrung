@@ -3,6 +3,7 @@ Python-Einführung (für eilige Computerlinguisten)
 
 Dieses Repository enthält eine Python-Einführung für die Vorlesung
 _Computerlinguistische Techniken_ (Sommersemester 2014, Universität Potsdam).
+Eine noch grundlegendere Einführung gibt es z.B. in Dirk Hovys [Python for Linguists](https://github.com/dirkhovy/python_for_linguists/blob/master/Python%20for%20Linguists.ipynb).
 
 Installation und Benutzung
 --------------------------
